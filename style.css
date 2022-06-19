@@ -1,0 +1,32 @@
+body {
+    background-color: aquamarine;
+}
+.banner {
+    background-color: gold;
+
+    box-shadow: 4px 4px 10px red;
+
+    padding: 0.1%;
+    padding-top: 0.5%;
+    padding-left: 5%;
+    border-radius: 50px;
+    border-top: 2px blue solid;
+    margin: auto;
+}
+.banner img {
+    margin-left: 10px;
+}
+.main h1 {
+    color: red;
+
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    
+    word-spacing: 10px;
+    letter-spacing: 1px;
+    text-shadow: 1px 1px 10px greenyellow;
+    
+    margin-left: 50px;
+    margin-top: 50px;
+}
